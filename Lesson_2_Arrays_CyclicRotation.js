@@ -1,5 +1,5 @@
 /**
- * LESSON 2 - ARRAYS - CYLICROTATION
+ * LESSON 2 - ARRAYS - CyclicRotation
  * Rotate array A K times; that is, each element of A will be shifted to the right K times.
  * @param {array} A - an array A consisting of N integers.
  * @param {int} K - an integer K.
